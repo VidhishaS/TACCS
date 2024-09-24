@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potholeimages</folder>
+	<filename>31.jpg</filename>
+	<path>C:\Users\ashet\mini\tfliterpipothole-main\tfliterpipothole-main\potholeimages\potholeimages\31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>95</ymin>
+			<xmax>233</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>
